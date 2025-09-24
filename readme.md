@@ -1,8 +1,6 @@
 
 # Mídia Ambiental Site
 
----
-
 ## Colaboradores
 - Angelo Andrade (@AngeloAndradeRocha)
 - Pedro Augusto (@PedroAugustoBraz)
